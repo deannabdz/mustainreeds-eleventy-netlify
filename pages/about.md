@@ -8,14 +8,14 @@ eleventyNavigation:
   order: 1
 ---
 
-### Jane Doe, PSO
+### Jane Doe
 
 "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Cras sit amet sollicitudin lectus. Nulla feugiat augue aliquet diam condimentum, non posuere enim imperdiet. Curabitur cursus non sapien eget interdum. Suspendisse sit amet sapien nibh. Phasellus commodo, tortor quis sollicitudin auctor, sem sem facilisis libero, mattis ultrices purus felis et ligula. Curabitur purus velit, pellentesque sit amet lorem in, laoreet feugiat arcu. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Pellentesque ac sapien ligula."
 
-### Jane Doe, PSO
+### Jane Doe
 
 "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Cras sit amet sollicitudin lectus. Nulla feugiat augue aliquet diam condimentum, non posuere enim imperdiet. Curabitur cursus non sapien eget interdum. Suspendisse sit amet sapien nibh. Phasellus commodo, tortor quis sollicitudin auctor, sem sem facilisis libero, mattis ultrices purus felis et ligula. Curabitur purus velit, pellentesque sit amet lorem in, laoreet feugiat arcu. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Pellentesque ac sapien ligula."
 
-### Jane Doe, PSO
+### Jane Doe
 
 "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Cras sit amet sollicitudin lectus. Nulla feugiat augue aliquet diam condimentum, non posuere enim imperdiet. Curabitur cursus non sapien eget interdum. Suspendisse sit amet sapien nibh. Phasellus commodo, tortor quis sollicitudin auctor, sem sem facilisis libero, mattis ultrices purus felis et ligula. Curabitur purus velit, pellentesque sit amet lorem in, laoreet feugiat arcu. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Pellentesque ac sapien ligula."

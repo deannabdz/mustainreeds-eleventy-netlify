@@ -198,7 +198,7 @@ button {
 	}
 }
 
-#page-wrap {
-	width: 800px;
+.page-wrap {
+	max-width: 500px;
 	margin: 0 auto;
 }

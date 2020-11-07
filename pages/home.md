@@ -11,6 +11,6 @@ eleventyNavigation:
 
 When I have extra reeds available, I sell them through this website.
 
-Add a sentence or two about the reed.
+<i>Placeholder for reed description.</i>
 
 <i>Placeholder for PayPal button</i>
