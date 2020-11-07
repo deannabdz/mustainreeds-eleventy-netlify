@@ -32,7 +32,10 @@ code {
 	line-height: 1.5;
 }
 
-a[href],
+a[href] {
+	color: blue;
+}
+
 a[href]:visited {
 	color: var(--primary);
 }
