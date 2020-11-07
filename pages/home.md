@@ -7,8 +7,10 @@ eleventyNavigation:
   key: Home
   order: 0
 ---
-# Oboe Reeds
+## Purchase Oboe Reeds
 
-When I have extra reeds, I make them available to sell on this website. 
+When I have extra reeds available, I sell them through this website.
 
-[![Deploy to Netlify](https://www.netlify.com/img/deploy/button.svg)](https://app.netlify.com/start/deploy?repository=https://github.com/danurbanowicz/eleventy-netlify-boilerplate&stack=cms)
+Add a sentence or two about the reed.
+
+<i>Placeholder for PayPal button</i>
