@@ -7,7 +7,7 @@ eleventyNavigation:
   key: Home
   order: 0
 ---
-# Purchase Oboe Reeds
+<h1 style="text-align:center;">Purchase Oboe Reeds</h1>
 
 When I have extra reeds available, I sell them through this website.
 
