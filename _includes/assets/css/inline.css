@@ -202,3 +202,7 @@ button {
 		font-size: 1.1rem;
 	}
 }
+
+div.paypal-button {
+	width: 25%;
+}
