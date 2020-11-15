@@ -13,7 +13,7 @@ When I have extra reeds, I will make them available for purchase on this website
 
 All reeds are handmade by me with the same materials I use for my orchestra reeds. 
 
-<img src="reed-placeholder.jpg">
+<img src="reed-placeholder.jpg" alt="High quality oboe reed">
 
 <div class="paypal-button">
 <form action="https://www.paypal.com/cgi-bin/webscr" method="post" target="_top">
