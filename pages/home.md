@@ -15,6 +15,7 @@ All reeds are handmade by me with the same materials I use for my orchestra reed
 
 <img src="reed-placeholder.jpg" alt="High quality oboe reed">
 
+<p style="text-align:center;">Professional Oboe Reed</p>
 <div class="paypal-button">
 <form action="https://www.paypal.com/cgi-bin/webscr" method="post" target="_top">
 <input type="hidden" name="cmd" value="_s-xclick">

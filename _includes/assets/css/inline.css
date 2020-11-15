@@ -209,7 +209,8 @@ button {
 }
 
 div.paypal-button {
-	width: 50%;
+	width: 30%;
+	margin: auto;
 }
 
 div.page-wrap {
