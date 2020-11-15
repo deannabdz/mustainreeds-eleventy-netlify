@@ -7,11 +7,11 @@ eleventyNavigation:
   key: Home
   order: 0
 ---
-<h1 style="text-align:center;">Purchase Oboe Reeds</h1>
+<h1 style="text-align:center;">Oboe Reeds Handmade by Kyle Mustain</h1>
 
-When I have extra reeds available, I sell them through this website.
+Reeds handmade by me with the same materials I use for my orchestra reeds.
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Cras sit amet sollicitudin lectus. Nulla feugiat augue aliquet diam condimentum, non posuere enim imperdiet. Curabitur cursus non sapien eget interdum. Suspendisse sit amet sapien nibh. Phasellus commodo, tortor quis sollicitudin auctor, sem sem facilisis libero, mattis ultrices purus felis et ligula. 
+When I have extra reeds, I will make them available for purchase on this website. 
 
 <div class="paypal-button">
 <form action="https://www.paypal.com/cgi-bin/webscr" method="post" target="_top">
@@ -22,7 +22,9 @@ Lorem ipsum dolor sit amet, consectetur adipiscing elit. Cras sit amet sollicitu
 </form>
 </div>
 
+If you are interested in a monthly subscription, please use the contact form to send me a message.
+
 ### Terms and Conditions
 
-Reeds shipped within two business days.
-Free shipping on two or more reeds.
+Reeds are shipped within three business days.
+
