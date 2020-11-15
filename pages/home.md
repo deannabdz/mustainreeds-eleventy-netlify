@@ -9,8 +9,7 @@ eleventyNavigation:
 ---
 <h1 style="text-align:center;">Oboe Reeds by Kyle Mustain</h1>
 English Horn and Oboe, <a href="https://pittsburghsymphony.org/biography/kyle-mustain">Pittsburgh Symphony</a>
-
-When I have extra reeds, I will make them available for purchase on this website. 
+<p style="text-align:center;">When I have extra reeds, I will make them available for purchase on this website. </p>
 
 All reeds are handmade by me with the same materials I use for my orchestra reeds. 
 
