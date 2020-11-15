@@ -54,10 +54,13 @@ header {
 	padding: 1em;
 }
 
-main,
-footer {
+main {
 	padding: 1em;
 	background-color: #E0E0E0;
+}
+
+footer {
+	padding: 1em;
 }
 
 main {
