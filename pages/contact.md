@@ -9,6 +9,4 @@ eleventyNavigation:
   key: Contact
   order: 3
 ---
-<h1 style="text-align:center;">Testimonials</h1>
-
 If you have any questions about your order, please fill out this form and I will get back to you as soon as possible.
