@@ -9,9 +9,9 @@ eleventyNavigation:
 ---
 <h1 style="text-align:center;">Oboe Reeds Handmade by Kyle Mustain</h1>
 
-Reeds handmade by me with the same materials I use for my orchestra reeds.
-
 When I have extra reeds, I will make them available for purchase on this website. 
+
+All reeds are handmade by me with the same materials I use for my orchestra reeds. 
 
 <div class="paypal-button">
 <form action="https://www.paypal.com/cgi-bin/webscr" method="post" target="_top">
@@ -26,5 +26,7 @@ If you are interested in a monthly subscription, please use the contact form to 
 
 ### Terms and Conditions
 
-Reeds are shipped within three business days.
+All orders are shipped within one week.
+All reeds are non-returnable unless damaged in transit.
+
 
