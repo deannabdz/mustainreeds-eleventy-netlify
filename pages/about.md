@@ -7,6 +7,7 @@ eleventyNavigation:
   key: Testimonials
   order: 1
 ---
+<h1 style="text-align:center;">Testimonials</h1>
 
 ### Jane Doe
 
