@@ -10,10 +10,11 @@ eleventyNavigation:
 # Oboe Reeds by Kyle Mustain
 
 <div class="home-intro">
-<p style="text-align:center;">English Horn and Oboe, <a href="https://pittsburghsymphony.org/biography/kyle-mustain">Pittsburgh Symphony</a> </p>
+<p style="text-align:center;">English Horn and Oboe, <a href="https://pittsburghsymphony.org/biography/kyle-mustain" target="_blank">Pittsburgh Symphony</a> </p>
 </div>
 
 <div class="home-description">
+
 
 ### Purchase Handmade Reeds
 
