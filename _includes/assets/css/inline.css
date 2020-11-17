@@ -218,3 +218,7 @@ div.page-wrap {
   	margin-left: auto;
   	max-width: 960px;
 }
+
+h1 {
+	text-align: center;
+}
