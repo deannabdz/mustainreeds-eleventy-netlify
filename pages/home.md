@@ -15,12 +15,15 @@ eleventyNavigation:
 
 <div class="home-description">
 
-
 ### Purchase Handmade Reeds
 
 When I have extra reeds, I will make them available for purchase on this website. All reeds are handmade by me with the same materials I use for my orchestra reeds. 
 
 If you are interested in a monthly subscription, please use the <a href="https://www.mustainreeds.com/contact/">contact form</a> to send me a message.
+</div>
+
+<div class="reed-image">
+<img src="/static/img/reed-placeholder.jpg" alt="Handmade oboe reed">
 </div>
 
 <div class="paypal-button">
