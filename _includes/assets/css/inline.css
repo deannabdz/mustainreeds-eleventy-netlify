@@ -211,6 +211,7 @@ button {
 div.paypal-button {
 	width: 30%;
 	margin: auto;
+	border: 0px;
 }
 
 div.page-wrap {
