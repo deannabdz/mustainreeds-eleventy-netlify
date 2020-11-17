@@ -7,13 +7,20 @@ eleventyNavigation:
   key: Home
   order: 0
 ---
-<h1 style="text-align:center;">Oboe Reeds by Kyle Mustain</h1>
+# Oboe Reeds by Kyle Mustain
+
+<div class="home-intro">
 <p style="text-align:center;">English Horn and Oboe, <a href="https://pittsburghsymphony.org/biography/kyle-mustain">Pittsburgh Symphony</a> </p>
-When I have extra reeds, I will make them available for purchase on this website.
+</div>
 
-All reeds are handmade by me with the same materials I use for my orchestra reeds. 
+<div class="home-description">
 
-If you are interested in a monthly subscription, please use the contact form to send me a message.
+### Purchase Handmade Reeds
+
+When I have extra reeds, I will make them available for purchase on this website. All reeds are handmade by me with the same materials I use for my orchestra reeds. 
+
+If you are interested in a monthly subscription, please use the <a href="https://www.mustainreeds.com/contact/">contact form</a> to send me a message.
+</div>
 
 <div class="paypal-button">
 <form action="https://www.paypal.com/cgi-bin/webscr" method="post" target="_top">
@@ -24,10 +31,13 @@ If you are interested in a monthly subscription, please use the contact form to 
 </form>
 </div>
 
+<div class="terms">
 
 ### Terms and Conditions
 
 All orders are shipped within one week.
 All reeds are non-returnable unless damaged in transit.
+Questions? Contact me via this <a href="https://www.mustainreeds.com/contact/">contact form</a>.
 
+</div>
 
