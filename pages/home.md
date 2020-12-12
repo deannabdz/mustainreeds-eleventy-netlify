@@ -7,10 +7,11 @@ eleventyNavigation:
   key: Home
   order: 0
 ---
-# Oboe Reeds by Kyle Mustain
-
 <div class="home-intro">
+# Oboe Reeds by Kyle Mustain
 <p style="text-align:center;">English Horn and Oboe, <a href="https://pittsburghsymphony.org/biography/kyle-mustain" target="_blank">Pittsburgh Symphony</a> </p>
+<p style="text-align:center;">~~~</p>
+<br>
 </div>
 
 <div class="home-description">
