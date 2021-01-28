@@ -12,7 +12,7 @@ eleventyNavigation:
 	</p>
 </section>
 
-<section class="one-liner" style="background-color: #d5e2e2">
+<section class="one-liner" style="background-color: white">
 	<div class="one-liner-content">
 		<p style="font-weight: 500">Handmade oboe reeds by Kyle Mustain, English Horn and Oboe of the Pittsburgh Symphony.</p>
 	</div>
@@ -42,7 +42,7 @@ If you are interested in a monthly subscription, please use the <a href="https:/
 </div>
  -->
 
-<section class="terms" style="background-color: #063970">
+<section class="terms" style="background-color: #E0E0E0">
 <div class="terms-content"> 
 	<p>All orders are shipped within one week. All reeds are non-returnable unless damaged in transit.</p>
 	<p>Questions? Contact me via this <a href="https://www.mustainreeds.com/contact/">contact form</a>.</p>
