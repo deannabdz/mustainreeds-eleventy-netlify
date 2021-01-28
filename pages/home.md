@@ -10,7 +10,7 @@ eleventyNavigation:
 # Oboe Reeds by Kyle Mustain
 
 <div class="home-intro">
-<p style="text-align:center;">English Horn and Oboe, <a href="https://pittsburghsymphony.org/biography/kyle-mustain" target="_blank">Pittsburgh Symphony</a> </p>
+<p style="text-align:center;">English Horn and Oboe, Pittsburgh Symphony</p>
 <p style="text-align:center;">~~~</p>
 </div>
 
@@ -23,7 +23,7 @@ When I have extra reeds, I will make them available for purchase on this website
 If you are interested in a monthly subscription, please use the <a href="https://www.mustainreeds.com/contact/">contact form</a> to send me a message.
 </div>
 
-<div class="reed-image">
+<!-- <div class="reed-image">
 <img src="/static/img/reed-placeholder.jpg" alt="Handmade oboe reed">
 </div>
 
@@ -36,7 +36,7 @@ If you are interested in a monthly subscription, please use the <a href="https:/
 </form>
 </div>
 
-<div class="terms">
+<div class="terms"> -->
 
 ### Terms and Conditions
 
