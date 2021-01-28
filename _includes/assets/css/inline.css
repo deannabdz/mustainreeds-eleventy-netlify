@@ -183,7 +183,6 @@ a[rel="tag"]:last-child {
 
 /* Contact Form */
 form {
-	padding: 2em; 
   display: grid;
 	padding: 2em 0;
 }
@@ -219,6 +218,8 @@ button {
 		font-size: 1.1rem;
 	}
 }
+
+/* Extra styles */
 
 div.paypal-button {
 	width: 30%;
