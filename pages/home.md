@@ -11,13 +11,14 @@ eleventyNavigation:
 </section>
 
 
+<section class="story">
 # Oboe Reeds by Kyle Mustain
 
 <div class="home-intro">
 <p style="text-align:center;">English Horn and Oboe, Pittsburgh Symphony</p>
 <p style="text-align:center;">~~~</p>
 </div>
-
+</section>
 
 <div class="home-description">
 
