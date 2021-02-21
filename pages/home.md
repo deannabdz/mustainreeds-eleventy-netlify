@@ -7,6 +7,7 @@ eleventyNavigation:
   key: Home
   order: 0
 ---
+<!--
 # Oboe Reeds by Kyle Mustain
 
 <div class="home-intro">
@@ -23,10 +24,13 @@ When I have extra reeds, I will make them available for purchase on this website
 If you are interested in a monthly subscription, please use the <a href="https://www.mustainreeds.com/contact/">contact form</a> to send me a message.
 </div>
 
+-->
+
 <div class="reed-image">
 <img src="/static/img/reed-placeholder.jpg" alt="Handmade oboe reed">
 </div>
 
+<!--
 <div class="paypal-button">
 <form action="https://www.paypal.com/cgi-bin/webscr" method="post" target="_top">
 <input type="hidden" name="cmd" value="_s-xclick">
@@ -45,4 +49,5 @@ All reeds are non-returnable unless damaged in transit.
 Questions? Contact me via this <a href="https://www.mustainreeds.com/contact/">contact form</a>.
 
 </div>
+-->
 
