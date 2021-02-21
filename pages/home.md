@@ -8,8 +8,6 @@ eleventyNavigation:
   order: 0
 ---
 <section class="hero" style="background-image: url('/static/img/reed-placeholder.jpg')">
-	<p>   
-	</p>
 </section>
 
 
