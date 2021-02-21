@@ -8,13 +8,15 @@ eleventyNavigation:
   order: 1
 ---
 
-<div class="page-content">
-	<h3>Jane Doe</h3>
-	<p>"Lorem ipsum dolor sit amet, consectetur adipiscing elit. Cras sit amet sollicitudin lectus. Nulla feugiat augue aliquet diam condimentum, non posuere enim imperdiet. Curabitur cursus non sapien eget interdum. Suspendisse sit amet sapien nibh. Phasellus commodo, tortor quis sollicitudin auctor, sem sem facilisis libero, mattis ultrices purus felis et ligula. Curabitur purus velit, pellentesque sit amet lorem in, laoreet feugiat arcu. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Pellentesque ac sapien ligula."</p>
-	<br>
+<div class="testimonial-content">
 	<h3>Jane Doe</h3>
 	<p>"Lorem ipsum dolor sit amet, consectetur adipiscing elit. Cras sit amet sollicitudin lectus. Nulla feugiat augue aliquet diam condimentum, non posuere enim imperdiet. Curabitur cursus non sapien eget interdum. Suspendisse sit amet sapien nibh. Phasellus commodo, tortor quis sollicitudin auctor, sem sem facilisis libero, mattis ultrices purus felis et ligula. Curabitur purus velit, pellentesque sit amet lorem in, laoreet feugiat arcu. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Pellentesque ac sapien ligula."</p>
 	<br>
 	<h3>Jane Doe</h3>
 	<p>"Lorem ipsum dolor sit amet, consectetur adipiscing elit. Cras sit amet sollicitudin lectus. Nulla feugiat augue aliquet diam condimentum, non posuere enim imperdiet. Curabitur cursus non sapien eget interdum. Suspendisse sit amet sapien nibh. Phasellus commodo, tortor quis sollicitudin auctor, sem sem facilisis libero, mattis ultrices purus felis et ligula. Curabitur purus velit, pellentesque sit amet lorem in, laoreet feugiat arcu. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Pellentesque ac sapien ligula."</p>
 </div>
+
+
+### Jane Doe
+
+"Lorem ipsum dolor sit amet, consectetur adipiscing elit. Cras sit amet sollicitudin lectus. Nulla feugiat augue aliquet diam condimentum, non posuere enim imperdiet. Curabitur cursus non sapien eget interdum. Suspendisse sit amet sapien nibh. Phasellus commodo, tortor quis sollicitudin auctor, sem sem facilisis libero, mattis ultrices purus felis et ligula. Curabitur purus velit, pellentesque sit amet lorem in, laoreet feugiat arcu. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Pellentesque ac sapien ligula."
