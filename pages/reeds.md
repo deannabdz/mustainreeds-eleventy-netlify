@@ -8,5 +8,8 @@ eleventyNavigation:
   order: 1
 ---
 
-Test
+Handmade oboe reeds by Kyle Mustain, English Horn and Oboe of the Pittsburgh Symphony. Handmade oboe reeds by Kyle Mustain, English Horn and Oboe of the Pittsburgh Symphony. Handmade oboe reeds by Kyle Mustain, English Horn and Oboe of the Pittsburgh Symphony. 
+
+
+All orders are shipped within one week. All reeds are non-returnable unless damaged in transit.
 
