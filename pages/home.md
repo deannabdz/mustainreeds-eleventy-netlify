@@ -14,7 +14,7 @@ eleventyNavigation:
 
 <section class="one-liner" style="background-color: #d5e2e2">
 	<div class="one-liner-content">
-		<p style="font-weight: 500">Handmade oboe reeds by Kyle Mustain, English Horn and Oboe of the Pittsburgh Symphony.</p>
+		<p>Handmade oboe reeds by Kyle Mustain, English Horn and Oboe of the Pittsburgh Symphony.</p>
 	</div>
 </section>
 
