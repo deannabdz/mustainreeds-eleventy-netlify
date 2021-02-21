@@ -42,14 +42,11 @@ If you are interested in a monthly subscription, please use the <a href="https:/
 </div>
  -->
 
-<section class="terms" style="background-color: #E0E0E0">
+<section class="terms">
 <div class="terms-content"> 
-	<h2>Terms and Conditions</h2>
-	<ul>
-		<li>All orders are shipped within one week.</li>
-		<li>All reeds are non-returnable unless damaged in transit.</li>
-		<li>Questions? Contact me via this <a href="https://www.mustainreeds.com/contact/">contact form</a>.</li>
-	</ul>
+	All orders are shipped within one week.
+	All reeds are non-returnable unless damaged in transit.
+	Questions? Contact me via this <a href="https://www.mustainreeds.com/contact/">contact form</a>.
 </div>
 </section>
 
