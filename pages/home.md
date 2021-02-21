@@ -8,7 +8,6 @@ eleventyNavigation:
   order: 0
 ---
 <section class="hero" style="background-image: url('/static/img/reed-placeholder.jpg')">
-	<h1>Handmade Oboe Reeds</h1>
 </section>
 
 
