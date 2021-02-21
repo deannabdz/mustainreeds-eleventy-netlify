@@ -9,6 +9,4 @@ eleventyNavigation:
   key: Contact
   order: 3
 ---
-<div class="page-content">
 If you have any questions about your order, please fill out this form and I will get back to you as soon as possible.
-</div>
