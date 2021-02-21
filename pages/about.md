@@ -1,21 +1,15 @@
 ---
-title: Testimonials
+title: About
 metaDescription: This is a sample meta description. If one is not present in your page/post's front matter, the default metadata.desciption will be used instead.
 date: 2017-01-01T00:00:00.000Z
-permalink: /testimonials/index.html
+permalink: /about/index.html
 eleventyNavigation:
-  key: Testimonials
+  key: About
   order: 1
 ---
 
-### Jane Doe
+Handmade oboe reeds by Kyle Mustain, English Horn and Oboe of the Pittsburgh Symphony. Handmade oboe reeds by Kyle Mustain, English Horn and Oboe of the Pittsburgh Symphony. Handmade oboe reeds by Kyle Mustain, English Horn and Oboe of the Pittsburgh Symphony. 
 
-"Lorem ipsum dolor sit amet, consectetur adipiscing elit. Cras sit amet sollicitudin lectus. Nulla feugiat augue aliquet diam condimentum, non posuere enim imperdiet. Curabitur cursus non sapien eget interdum. Suspendisse sit amet sapien nibh. Phasellus commodo, tortor quis sollicitudin auctor, sem sem facilisis libero, mattis ultrices purus felis et ligula. Curabitur purus velit, pellentesque sit amet lorem in, laoreet feugiat arcu. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Pellentesque ac sapien ligula."
 
-### Jane Doe
+All orders are shipped within one week. All reeds are non-returnable unless damaged in transit.
 
-"Lorem ipsum dolor sit amet, consectetur adipiscing elit. Cras sit amet sollicitudin lectus. Nulla feugiat augue aliquet diam condimentum, non posuere enim imperdiet. Curabitur cursus non sapien eget interdum. Suspendisse sit amet sapien nibh. Phasellus commodo, tortor quis sollicitudin auctor, sem sem facilisis libero, mattis ultrices purus felis et ligula. Curabitur purus velit, pellentesque sit amet lorem in, laoreet feugiat arcu. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Pellentesque ac sapien ligula."
-
-### Jane Doe
-
-"Lorem ipsum dolor sit amet, consectetur adipiscing elit. Cras sit amet sollicitudin lectus. Nulla feugiat augue aliquet diam condimentum, non posuere enim imperdiet. Curabitur cursus non sapien eget interdum. Suspendisse sit amet sapien nibh. Phasellus commodo, tortor quis sollicitudin auctor, sem sem facilisis libero, mattis ultrices purus felis et ligula. Curabitur purus velit, pellentesque sit amet lorem in, laoreet feugiat arcu. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Pellentesque ac sapien ligula."
