@@ -22,14 +22,10 @@ body {
 	background-color: var(--background);
 }
 
-/* 
-Making page content full width
-
 main {
 	margin: auto;
 	max-width: 50em;
 }
-*/
 
 p,
 pre,
@@ -58,17 +54,10 @@ header {
 	padding: 1em;
 }
 
-
-/*
-Removing gray box around main component
-
 main {
 	padding: 1em;
 	background-color: #E0E0E0; 
 }
-*/
-
-
 
 footer {
 	padding: 1em;
