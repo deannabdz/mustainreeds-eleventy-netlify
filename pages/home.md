@@ -7,10 +7,6 @@ eleventyNavigation:
   key: Home
   order: 0
 ---
-<section class="hero" style="background-image: url('/static/img/reed-placeholder.jpg')">
-</section>
-
-
 # Oboe Reeds by Kyle Mustain
 
 <div class="home-intro">
