@@ -1,11 +1,11 @@
 ---
-title: About
+title: Lessons
 metaDescription: This is a sample meta description. If one is not present in your page/post's front matter, the default metadata.desciption will be used instead.
 date: 2017-01-01T00:00:00.000Z
-permalink: /about/index.html
+permalink: /lessons/index.html
 eleventyNavigation:
-  key: About
-  order: 4
+  key: Lessons
+  order: 3
 ---
 
 Handmade oboe reeds by Kyle Mustain, English Horn and Oboe of the Pittsburgh Symphony. Handmade oboe reeds by Kyle Mustain, English Horn and Oboe of the Pittsburgh Symphony. Handmade oboe reeds by Kyle Mustain, English Horn and Oboe of the Pittsburgh Symphony. 

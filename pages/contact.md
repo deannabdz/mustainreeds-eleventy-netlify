@@ -7,6 +7,6 @@ date: 2018-01-01
 permalink: /contact/index.html
 eleventyNavigation:
   key: Contact
-  order: 4
+  order: 5
 ---
 If you have any questions about your order, please fill out this form and I will get back to you as soon as possible.
