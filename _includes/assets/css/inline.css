@@ -22,14 +22,11 @@ body {
 	background-color: var(--background);
 }
 
-/* 
-Making page content full width
 
 main {
-	margin: auto;
-	max-width: 50em;
+	max-width: 37.5em;
 }
-*/
+
 
 p,
 pre,
