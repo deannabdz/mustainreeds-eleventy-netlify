@@ -19,7 +19,7 @@ eleventyNavigation:
 </section>
 
 
-<!-- <div class="home-description">
+<div class="home-description">
 
 ### Purchase Handmade Reeds
 
@@ -28,7 +28,7 @@ When I have extra reeds, I will make them available for purchase on this website
 If you are interested in a monthly subscription, please use the <a href="https://www.mustainreeds.com/contact/">contact form</a> to send me a message.
 </div>
 
-<div class="reed-image">
+<!-- <div class="reed-image">
 <img src="/static/img/reed-placeholder.jpg" alt="Handmade oboe reed">
 </div>
 
@@ -40,13 +40,14 @@ If you are interested in a monthly subscription, please use the <a href="https:/
 <img alt="" border="0" src="https://www.paypalobjects.com/en_US/i/scr/pixel.gif" width="1" height="1">
 </form>
 </div>
- -->
 
-<section class="terms">
-<div class="terms-content"> 
-	All orders are shipped within one week.
-	All reeds are non-returnable unless damaged in transit.
-	Questions? Contact me via this <a href="https://www.mustainreeds.com/contact/">contact form</a>.
+<div class="terms"> -->
+
+### Terms and Conditions
+
+All orders are shipped within one week.
+All reeds are non-returnable unless damaged in transit.
+Questions? Contact me via this <a href="https://www.mustainreeds.com/contact/">contact form</a>.
+
 </div>
-</section>
 
